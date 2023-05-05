@@ -1,5 +1,7 @@
 # [Language Classification with Naive Bayes in Python](https://www.coursera.org/projects/language-classification)
 
+## Coursera Project Network (Guided Project)
+
 What you will learn:
 - How to clean and preprocess data for language classification
 - How to train and assess a Multinomial Naive Bayes Model 
